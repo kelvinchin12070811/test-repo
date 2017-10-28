@@ -1,2 +1,2 @@
 # test-repo
-This repos is only use for learning github
+This repo is only use for learning github
