@@ -1,0 +1,8 @@
+title: 你好我是谁
+use native fullscreen: false
+lang list:
+  - zh_cn
+  - zh_tw
+  - en_my
+current lang index: 0
+screen ratio: 16:9
